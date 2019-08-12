@@ -14,4 +14,4 @@ app.get('/',(req,res) => {
     })
 
 
-app.listen(80, ()=> console.log('Server is running on Port :2020'))
+app.listen(5555, ()=> console.log('Server is running on Port :2020'))
